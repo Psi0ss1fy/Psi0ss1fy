@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Psi0ss1fy
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning lua and the Love2D framework
+- 📫 How to reach me [Youtube](https://www.youtube.com/channel/UCZ6gnG-7B8fuH5mvLrP_gXA)
